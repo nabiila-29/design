@@ -16,4 +16,5 @@ Udemy Course: [Design Fundamental](https://www.udemy.com/course/uxdevelopment/le
   
 ## 1. Colour  
 [How to pick the right colors for your website or app | UI/UX design tips](https://www.youtube.com/watch?v=ewRYw4pnKQU)  
+<img src="https://github.com/nabiila-29/design/blob/main/image/colour%20rule.png" width=25% height=25%>
   
